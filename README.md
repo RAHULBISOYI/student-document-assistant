@@ -30,3 +30,12 @@ Backend: Node.js / PHP / Python (depending on your setup)
 
 PDF Generation: jsPDF / PDFMake / other
 
+
+
+
+nav.php will be the home page 
+which will inside the partial
+and the data base connection will be the db_connect
+
+
+
