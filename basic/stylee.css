@@ -1,0 +1,37 @@
+
+    body {
+        direction: ltr;
+        text-align: left;
+        font-family: Arial, sans-serif;
+        background-color: #f8f9fa;
+    }
+    .navbar {
+        background-color: #343a40 !important;
+    }
+    .navbar-nav {
+        flex-direction: row;
+    }
+    .navbar a {
+        color: white;
+        text-decoration: none;
+        padding: 10px 15px;
+        transition: color 0.3s ease;
+    }
+    .navbar a:hover {
+        color: #ffc107;
+    }
+    .mobile-menu {
+        background-color: #343a40;
+        padding: 10px;
+        border-radius: 8px;
+        text-align: left;
+    }
+    .mobile-menu a {
+        display: block;
+        color: white;
+        padding: 10px;
+        text-decoration: none;
+    }
+    .mobile-menu a:hover {
+        background-color: #495057;
+    }
